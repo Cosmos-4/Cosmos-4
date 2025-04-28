@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shadique Rahman! 👋</h1>
-<h3 align="center">Aspiring Businessman | Tech Enthusiast | Data Science + CSE Student</h3>
+<h3 align="center">Avid Reader | Tech Enthusiast | Data Science + CSE Student</h3>
 
 ---
 
